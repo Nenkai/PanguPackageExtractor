@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanguPackageExtractor", "PanguPackageExtractor\PanguPackageExtractor.csproj", "{70B58844-3AD5-4DB8-9B73-07BD9FEECD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B58844-3AD5-4DB8-9B73-07BD9FEECD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B58844-3AD5-4DB8-9B73-07BD9FEECD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B58844-3AD5-4DB8-9B73-07BD9FEECD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B58844-3AD5-4DB8-9B73-07BD9FEECD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D821E1-AF5E-4685-8345-1FB56C781557}
+	EndGlobalSection
+EndGlobal
